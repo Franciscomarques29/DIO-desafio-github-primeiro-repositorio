@@ -1,0 +1,31 @@
+Comandos básicos no Git:
+
+ Windows            
+. CD - Mudar de diretório
+. DIR - Listar
+. MKDIR - Criar diretórios
+. DEL/RMDIR - Deletar arquivos / Deletar repositórios
+ 
+Linux/IOS
+. CD - Mudar de diretório
+. LS - Listar
+. MKDIR - Criar diretórios
+. RM/RF - Deletar arquivos / Deletar repositórios
+
+Primeiros comandos com o Git:
+. GIT INIT - Iniar o Git
+. GIT ADD - Iniciar o versionamento
+. GIT COMMIT - Criar um commit
+
+SHA 1: 
+Significa SECURE HASH ALGORITHM (Algoritmo de hash seguro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agencia de segurança nacional dos EUA).
+A encriptação gera conjunto de caractéres identificador de 40 dígitos.
+
+Objetos internos do Git: BLOBS, TREES, COMMITS.
+
+Chave SSH: 
+É uma forma de estabelecer uma conexão segura e encriptada entre duas máquinas.
+- Criar chave: SSH -KEYGEN -T ED25519 -C franciscomarque27@outlook.com.br
+
+Chave TOKEN: 
+Gerar e digitar nome e senha.
