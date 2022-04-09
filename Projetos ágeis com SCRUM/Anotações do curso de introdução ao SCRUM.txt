@@ -1,0 +1,21 @@
+CONCEITOS BÁSICOS DE SCRUM: "Ágil é diferente de rápido".
+
+	SCRUM é um dos frameworks de gerenciameno de projetos ágeis. Projetos usando equipes pequenas e multidiciplinares produzem os melhores resultados.
+	O princípio de pareto também se aplica ao desenvolvimento de software, onde 20% das funcionalidades costumam gerar 80% ou mais do benefício esperado.
+
+- Pilares do SCRUM:
+Transparencia, Adapação, Inspeção
+
+- Gestão de projetos ágeis:
+	O software é construído por partes (incremental), e cada parte executa-se em um ciclo (iterativo)
+
+- SPRINT:
+	É o principal evento do SCRUM. Tem duração de dias (ou menos).
+
+Composição de uma SPRINT:
+. Planejamento da SPRINT - 4hs (O que fazer?) / 4hs (Como fazer?)
+. Reuniões diárias (Daily meeting)
+. Revisão da SPRINT (Review)
+. Retrospectiva da SPRINT
+
+Time Box: Tempo máximo para fazer uma cerimônia ou sprint.
